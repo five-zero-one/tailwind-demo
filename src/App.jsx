@@ -14,9 +14,9 @@ export default function App() {
 
 function Card() {
     return (
-        <section class="card">
-            <img src="http://placekitten.com/100/100" alt="cat" class="card-img" />
-            <p class="card-contents">
+        <section>
+            <img src="http://placekitten.com/100/100" alt="cat" />
+            <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo

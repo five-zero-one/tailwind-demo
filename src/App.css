@@ -1,14 +1,6 @@
-#root {
+/* #root {
     max-width: 1280px;
     margin: 0 auto;
     padding: 2rem;
     text-align: center;
-}
-
-.card-img {
-    @apply py-4 pl-4 aspect-square;
-}
-
-.card-contents {
-    @apply mx-4 my-3 leading-4;
-}
+} */

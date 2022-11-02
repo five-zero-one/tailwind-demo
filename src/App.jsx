@@ -93,7 +93,7 @@ function Grid(props) {
     );
 }
 
-function Simple(props) {
+function Simple(_props) {
     return (
         <Grid>
             <ButtonOne />
